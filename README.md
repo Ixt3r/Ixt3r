@@ -13,7 +13,7 @@ Olá, meu nome é Estefani e sou formada em T.I pelo Instituto Federal. Atualmen
 
 Aqui estão algumas das habilidades que tenho desenvolvido:
 
-- Front-end: JavaScript, CSS, HTML, React.
+- Front-end: JavaScript, CSS, HTML, React, Wordpress.
 - Back-end: Java.
 - Segurança da Informação: Linux, redes.
 
